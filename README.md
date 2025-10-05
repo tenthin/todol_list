@@ -30,4 +30,4 @@ This project was build to proactice fundamental react concepts such as **useStat
 ## 🏃‍♂️ How to Run Locally
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/tenthin/todol_list.git
