@@ -49,6 +49,12 @@ body{
   color: white;
 }
 
+.clear{
+  display: flex;
+  justify-content: end;
+  margin-top: 4px;
+}
+
 .items{
   display: flex;
   align-items: center;
